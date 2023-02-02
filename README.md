@@ -1,2 +1,2 @@
 # project01
-# for autotesting’s program
+# for autotesting’s project
