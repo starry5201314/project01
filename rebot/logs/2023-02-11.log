@@ -1,0 +1,166 @@
+[2023-02-11 14:16:23] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-02-11 14:16:29] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-02-11 14:16:29] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-02-11 14:16:29] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-02-11 14:16:29] [WARNING]: 请输入(1 - 2)： 
+[2023-02-11 14:16:34] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=CmZDjOK6&style=simple&aid=16&uin=1468197474&sid=6435282052553585342&cap_cd=JOcI-bxsaBsOeTYtfqL5k721b7-heROeTDrWkIO_kNeSyEeMlhn6OA**&clientype=1&apptype=2 <- 或输入手动抓取的 ticket：（Enter 提交） 
+[2023-02-11 14:16:50] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2023-02-11 14:16:50] [WARNING]: 1. 向手机 177*******2 发送短信验证码 
+[2023-02-11 14:16:50] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2023-02-11 14:16:50] [WARNING]: 请输入(1 - 2)： 
+[2023-02-11 14:17:23] [WARNING]: 账号已开启设备锁，请前往 -> https://accounts.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=double-check&uin=1468197474&sig=lT5w06wVCZzFdRG3iZksLmYgTTf0I3N%2BRZDEhzQ3as0nP07T1lPC72ZYsCFtbNYsEznkojMedGoGH025WKHntrFaAIrmuv6O0RnMsyPor4M%3D <- 验证后重启Bot. 
+[2023-02-11 14:18:09] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-02-11 14:20:16] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-02-11 14:20:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-02-11 14:20:27] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:3707->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 14:20:30] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:3707->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 14:20:41] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-02-11 14:20:45] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-02-11 14:21:09] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-02-11 14:21:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-02-11 14:21:17] [WARNING]: 群消息发送失败: 信息为空. 
+[2023-02-11 14:22:29] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:3722->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 14:22:30] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:3722->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 14:41:19] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:3754->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 14:57:58] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-02-11 14:58:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 14:58:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 14:58:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 14:58:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 14:58:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 14:58:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 14:58:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 14:58:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 14:58:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 14:58:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:17:12] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:11465->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:17:15] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:11465->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:17:47] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:8194->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:17:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:8194->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:26:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: read tcp 127.0.0.1:8237->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:27:51] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:9040->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:27:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:9040->127.0.0.1:8866: use of closed network connection 
+[2023-02-11 15:28:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: read tcp 127.0.0.1:9178->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:28:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:28:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:28:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:28:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:28:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:28:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:28:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:28:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:28:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:28:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:29:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:30:09] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "C:/Users/Administrator/Desktop/project01/project01//1.jpg"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-02-11 15:30:09] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 15:30:40] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "C:/Users/Administrator/Desktop/project01/project01//1.jpg"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-02-11 15:30:40] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 15:30:46] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:9351->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:30:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:9351->127.0.0.1:8866: use of closed network connection 
+[2023-02-11 15:31:19] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "C:/Users/Administrator/Desktop/project01/project01/1.jpg"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-02-11 15:31:19] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 15:31:21] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "C:/Users/Administrator/Desktop/project01/project01/1.jpg"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-02-11 15:31:21] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 15:34:01] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "C:/Users/Administrator/Desktop/project01/project01/1.jpg"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-02-11 15:34:01] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 15:34:03] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:9421->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:34:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:9421->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:35:29] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "C:/Users/Administrator/Desktop/project01/project01/1.jpg"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-02-11 15:35:29] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 15:35:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:9660->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:35:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:9660->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:38:23] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:9769->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:38:25] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:9769->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:40:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: read tcp 127.0.0.1:9984->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:40:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:40:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:40:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:40:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:40:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:40:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:40:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:41:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:41:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:41:23] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "C:/Users/Administrator/Desktop/project01/project01/"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-02-11 15:41:23] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 15:43:03] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:10185->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:43:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:10185->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:43:45] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:10354->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:43:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:10354->127.0.0.1:8866: use of closed network connection 
+[2023-02-11 15:43:53] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "C:/Users/Administrator/Desktop/project01/project01/"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-02-11 15:43:53] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 15:48:08] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:10421->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:49:28] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-02-11 15:49:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 15:49:48] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "C:/Users/Administrator/Desktop/project01/project01/1.jpg"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-02-11 15:49:48] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 15:50:08] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "C:/Users/Administrator/Desktop/project01/project01/1.jpg"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-02-11 15:50:08] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 15:50:12] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:11180->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:50:15] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:11180->127.0.0.1:8866: use of closed network connection 
+[2023-02-11 15:59:26] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:11257->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 15:59:30] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:11257->127.0.0.1:8866: use of closed network connection 
+[2023-02-11 15:59:33] [WARNING]: 警告: 群 712137390 图片上传失败: image type error: application/octet-stream 
+[2023-02-11 15:59:33] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 16:00:39] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:12138->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:00:40] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:12138->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:00:47] [WARNING]: 警告: 群 712137390 图片上传失败: image type error: application/octet-stream 
+[2023-02-11 16:00:47] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-02-11 16:01:49] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:12161->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:01:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:12161->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:06:53] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:12191->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:06:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:12191->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:07:10] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:12410->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:07:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:12410->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:07:39] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:12431->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:07:40] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:12431->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:08:07] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:12457->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:08:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:12457->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:08:13] [WARNING]: 群消息发送失败: 信息为空. 
+[2023-02-11 16:08:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:12487->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:08:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:12487->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:09:19] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:12513->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:09:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:12513->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:09:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 16:36:57] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:12546->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 16:37:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:12546->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:13:01] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:7687->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:13:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:7687->127.0.0.1:8866: use of closed network connection 
+[2023-02-11 17:15:29] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:14762->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:15:30] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:14762->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:19:50] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:14840->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:19:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:14840->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:29:31] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:14968->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:29:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:14968->127.0.0.1:8866: use of closed network connection 
+[2023-02-11 17:29:55] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:5569->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:29:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:5569->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:37:01] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:5581->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:37:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:5581->127.0.0.1:8866: use of closed network connection 
+[2023-02-11 17:38:33] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:5668->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:38:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:5668->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:39:17] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:5689->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:39:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:5689->127.0.0.1:8866: use of closed network connection 
+[2023-02-11 17:40:32] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:5705->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-11 17:40:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:5705->127.0.0.1:8866: use of closed network connection 
+[2023-02-11 17:40:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 17:40:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 17:40:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 17:40:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 17:41:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 17:41:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 17:41:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 17:41:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 17:41:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-11 17:41:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
