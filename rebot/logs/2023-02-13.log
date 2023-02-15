@@ -1,0 +1,17 @@
+[2023-02-13 08:59:38] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-02-13 08:59:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-13 08:59:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-13 08:59:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-13 08:59:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-13 09:00:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-13 09:00:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8866/qqbot/ 时出现错误: dial tcp 127.0.0.1:8866: connectex: No connection could be made because the target machine actively refused it. 
+[2023-02-13 09:01:10] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:5211->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-13 09:01:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:5211->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-13 09:01:53] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:5224->127.0.0.1:8866: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-02-13 09:01:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:5224->127.0.0.1:8866: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-02-13 22:58:53] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-02-13 22:58:56] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-02-13 22:58:59] [WARNING]: 尝试重连... 
+[2023-02-13 22:58:59] [WARNING]: 快速重连失败: exchange_emp failed: 16 
+[2023-02-13 22:58:59] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-02-13 22:59:00] [WARNING]: 登录失败: 密码错误或账号被冻结 

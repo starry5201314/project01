@@ -1,0 +1,15 @@
+1 卸载旧环境
+yum remove docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-engine
+2 安装所需软件包
+yum install -y yum-utils device-mapper-persistent-data lvm2
+3 设置阿里云仓库
+yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+4 安装docker-ce（社区版）
+yum install docker-ce
+5 检测是否安装成功
+docker -v
+
+群辉内测码
+
+我不是矿神IMNKS
+docker run -d --name=xunlei --hostname=mynas --net=host -v /mnt/sdb1/xunlei:/xunlei/data -v /mnt/sdb1/downloads:/xunlei/downloads --restart=unless-stopped --privileged cnk3x/xunlei:latest

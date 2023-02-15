@@ -76,7 +76,7 @@ async def qqbot(request, ws):
                     }
                 }
                 await ws.send(json.dumps(ret))
-            elif raw_message == "都怪":
+            elif raw_message == "/2":
                 with open(base_path + "4.txt", encoding="utf8") as f:
                     msg = f.read()
                 ret = {
